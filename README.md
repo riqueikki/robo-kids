@@ -28,3 +28,6 @@ Atividade interativa de **encaixe e coloração de peças** para Educação Infa
 - Arquivo único (`index.html`), sem dependências externas além das fontes do Google Fonts (carregadas via CDN) — se usar sem internet, as fontes trocam automaticamente para uma fonte padrão do sistema, sem quebrar o funcionamento.
 - Funciona em computador (mouse), tablet e celular (toque), graças ao uso de Pointer Events.
 - Todo o desenho é feito em SVG (vetor), então a imagem exportada fica nítida mesmo impressa.
+
+- <img width="321" height="138" alt="image" src="https://github.com/user-attachments/assets/7346a592-a16c-48ea-aa54-6a04351a34f3" />
+
